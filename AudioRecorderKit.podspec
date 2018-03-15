@@ -24,8 +24,6 @@ s.frameworks = 'Foundation'
 
 s.source_files = 'AudioRecorderKit/**/*.swift'
 
-s.resources = ['AudioRecorderKit/**/*.storyboard', 'AudioRecorderKit/**/*.xib', 'HJPinyinTransform/**/*.xcassets', 'HJPinyinTransform/**/*.lproj', 'HJPinyinTransform/**/*.txt']
-
 s.requires_arc = true
 
 end
